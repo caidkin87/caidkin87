@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello my name is Kincaid Young
+
+- I am interested in continuing to learn about computer programming and computer networking! 
+- I am working to be the best computer scientist I can be and graduate from East Tennessee State University (**ETSU**).
+- My favorite hobbies include playing guitar and Olympic style Weightlifting.
 
 <!--
 **caidkin87/caidkin87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
